@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tokenisation/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Tokenisation/static/js/main.ff412479.chunk.js",
+    "main.js.map": "/Tokenisation/static/js/main.ff412479.chunk.js.map",
+    "runtime-main.js": "/Tokenisation/static/js/runtime-main.3086a296.js",
+    "runtime-main.js.map": "/Tokenisation/static/js/runtime-main.3086a296.js.map",
+    "static/js/2.818169c6.chunk.js": "/Tokenisation/static/js/2.818169c6.chunk.js",
+    "static/js/2.818169c6.chunk.js.map": "/Tokenisation/static/js/2.818169c6.chunk.js.map",
+    "static/js/3.23293ee7.chunk.js": "/Tokenisation/static/js/3.23293ee7.chunk.js",
+    "static/js/3.23293ee7.chunk.js.map": "/Tokenisation/static/js/3.23293ee7.chunk.js.map",
+    "index.html": "/Tokenisation/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Tokenisation/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.818169c6.chunk.js.LICENSE.txt": "/Tokenisation/static/js/2.818169c6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Tokenisation/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3086a296.js",
+    "static/js/2.818169c6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ff412479.chunk.js"
+  ]
+}
